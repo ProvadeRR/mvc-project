@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="063ab7fb-e142-49c1-8135-213a44e616ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1ggROvAJER8e4PG30pXoBGUXRJL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="X:\Программирование\OSPanel\domains\Zinchenko" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="063ab7fb-e142-49c1-8135-213a44e616ac" name="Default Changelist" comment="" />
+      <created>1598534221276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598534221276</updated>
+      <workItem from="1598534222724" duration="359000" />
+      <workItem from="1598534763817" duration="9726000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2604" y="251" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598539683603">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="684" y="242" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1598536810597" />
+    <state x="2604" y="251" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598539683603" />
+    <state x="2624" y="251" key="NewPhpClassDialog" timestamp="1598541912209">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="704" y="242" key="NewPhpClassDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1598538355603" />
+    <state x="2624" y="251" key="NewPhpClassDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598541912209" />
+    <state x="2715" y="459" key="NewPhpFileDialog" timestamp="1598540899239">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="795" y="442" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1598540321039" />
+    <state x="2715" y="459" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1598540899239" />
+  </component>
+</project>
